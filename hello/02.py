@@ -1,13 +1,13 @@
-str = "aasdasdasdasdsgj,kljsfgklsdfgsdfg
-f
-gsf
-gsdf
-g
-sdfg
-dfg
-sdfggsdf
-g
-dfggddfgdfgsdfgsdfgsdf
-g"
-
-print(str)gdfgsdfgdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfg
+strfasd = "aasdasdasdasdsgj,kljsfgklsdfgsdfg
+fdsfsd
+gsffasfdf
+gsdffasasdfd
+gasdasdfasd
+sdfgasdff
+dfgasdklaasdfsghdkljashdjkf adhlfjkadasdfasdf
+sdfggsdfsddfasdfasdfasd
+gf
+dfasdggddfgdfgsdfgsdfgsdf
+g"fsd
+fasdfasdfasdfkljsdfhlsdjfhlskdjfhasdjklfhasdjklfhasjklfhasdfasdfsdfasd
+print(str)gdfgsdfgdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgfasdfsdafsfasdfsdfasdfsdfsdlkfhasdlkfjasdhlkfjhasdkljfasdhlfs
