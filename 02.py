@@ -1,11 +1,13 @@
-asdfk;ladjfhgg
-dfg
-sdf
-getattrsdfg
-sdfg
-
-gsd
-fdg
-FloatingPointErrorsd
-gsd
+str = "aasdasdasdasdsgj,kljsfgklsdfgsdfg
+f
+gsf
+gsdf
 g
+sdfg
+dfg
+sdfggsdf
+g
+dfggd
+g"
+
+print(str)
